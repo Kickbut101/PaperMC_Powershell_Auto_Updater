@@ -1,6 +1,7 @@
 ﻿# Minecraft Paper.io Jar file updater
 # This script assumes your paper.jar file is just called paper.jar! rename it if it isn't!
 # It also assumes to start your server you have a scheduled task. Though you could change it out to start a script
+# You would use this script as a scheduled task itself that runs however frequently you like to check for and update your paper minecraft server jar file.
 # Andrew Lund
 $lastUpdated = "10-7-20"
 
